@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [GitHub](https://github.com/miriahmoose/RecipePage)
-- Live Site URL: [GitHub Pages](https://miriahmoose.github.io/RecipePage/)
+- Solution URL: [GitHub](https://github.com/miriahmoose/ProductPreviewCard)
+- Live Site URL: [GitHub Pages](https://miriahmoose.github.io/ProductPreviewCard/)
 
 ## My process
 
